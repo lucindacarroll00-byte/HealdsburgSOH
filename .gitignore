@@ -1,0 +1,12 @@
+# R / RStudio session files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# secrets: the Census API key lives in ~/.Renviron, never in this repo
+.Renviron
+census-api-key.R
+
+# Mac
+.DS_Store
