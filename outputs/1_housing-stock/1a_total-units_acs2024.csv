@@ -1,0 +1,2 @@
+geoid,name,variable,estimate,moe,acs_period,low,high,cv
+0633056,"Healdsburg city, California",total_units,5138,326,2020-2024,4812,5464,0.038570706849613286
